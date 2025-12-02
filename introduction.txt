@@ -1,0 +1,4 @@
+Brief Introduction About Myself 
+My name is Princess. l am 18 years old and currently learning software engineering with ALX. l enjoy exploring technology, improving myself, and building new skills that will help my future career. 
+
+l am passionate about becoming a better version of myself each day and learning new things like coding, Linux, GitHub, and programming. This repository marks the beginning of my tech journey.
